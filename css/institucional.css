@@ -41,6 +41,7 @@
 
 .institucional__contacto-telefono {
     line-height: normal;
+    text-decoration: underline;
 }
 
 .institucional__contacto-email {
